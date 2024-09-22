@@ -39,7 +39,7 @@ The repository is organized into several folders and files to make navigation ea
    - This output allows for an easy comparison of NDVI values across different rows to identify areas that may need attention.
 
 ### 5. **HTML Output**
-   - **File**: [`Tomato_Farm_NDVI_Analysis.html`](https://mohammadrezanarimaniucdavis.github.io/08-06-2024_Tomato_Irrigation_NDVI/Tomato_Farm_NDVI_Analysis.html)
+   - **File**: [`Tomato_Farm_NDVI_Analysis.html`](https://mohammadrezanarimaniucdavis.github.io/08-06-2024_Tomato_Irrigation_NDVI/HTML/Tomato_Farm_NDVI_Analysis.html)
    - This file contains the fully rendered output of the Jupyter notebook, including all code, figures, tables, and results. You can view it directly in your browser by clicking the link above.
    - It provides a detailed step-by-step walkthrough of the entire analysis, from data loading to NDVI calculation and shapefile processing.
 
