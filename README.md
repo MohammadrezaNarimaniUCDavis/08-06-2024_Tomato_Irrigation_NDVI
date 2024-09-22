@@ -65,5 +65,12 @@ Alternatively, you can use `conda` or your preferred package manager.
 
 ![Farm Visualization](Map/Map.png)
 
+5. **NDVI Boxplots**: Boxplots for each row, illustrating the variation in NDVI values. These plots help track changes and identify potential issues in vegetation health across different parts of the farm. Each boxplot represents a row and shows the distribution of NDVI values from the minimum to the maximum, highlighting the median and quartiles to provide a quick statistical overview of each row's health.
+
+![NDVI Boxplots](CSV/Boxplots.png)
+
+   - The boxplots are particularly useful for comparing the variability and median NDVI values across different rows, facilitating targeted agricultural interventions.
+
+
 ### Contact Information
 For more questions or inquiries about this project, feel free to contact **Mohammadreza Narimani** via email at [mnarimani@ucdavis.edu](mailto:mnarimani@ucdavis.edu).
