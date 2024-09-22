@@ -63,7 +63,7 @@ Alternatively, you can use `conda` or your preferred package manager.
 
 4. **Output**: The notebook will produce the final NDVI visualizations and CSV outputs containing statistics for each row of the tomato farm.
 
-![Farm Visualization](./Farm_Visualization.png)
+![Farm Visualization](Map/Map.png)
 
 ### Contact Information
 For more questions or inquiries about this project, feel free to contact **Mohammadreza Narimani** via email at [mnarimani@ucdavis.edu](mailto:mnarimani@ucdavis.edu).
