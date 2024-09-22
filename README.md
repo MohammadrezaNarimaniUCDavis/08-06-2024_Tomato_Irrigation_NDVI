@@ -69,7 +69,7 @@ Alternatively, you can use `conda` or your preferred package manager.
 
 ![NDVI Boxplots](CSV/Boxplot.png)
 
-   - The boxplots are particularly useful for comparing the variability and median NDVI values across different rows, facilitating targeted agricultural interventions.
+   - The boxplots are particularly useful for analyzing the variability of NDVI values, which reflect the differences in irrigation treatments across various rows, facilitating targeted agricultural interventions.
 
 
 ### Contact Information
